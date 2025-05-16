@@ -3449,7 +3449,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"next@npm:15.3.2":
+"next@npm:^15.3.2":
   version: 15.3.2
   resolution: "next@npm:15.3.2"
   dependencies:
@@ -3861,7 +3861,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^19.0.0":
+"react-dom@npm:^19.1.0":
   version: 19.1.0
   resolution: "react-dom@npm:19.1.0"
   dependencies:
@@ -3879,7 +3879,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^19.0.0":
+"react@npm:^19.1.0":
   version: 19.1.0
   resolution: "react@npm:19.1.0"
   checksum: 10c0/530fb9a62237d54137a13d2cfb67a7db6a2156faed43eecc423f4713d9b20c6f2728b026b45e28fcd72e8eadb9e9ed4b089e99f5e295d2f0ad3134251bdd3698
@@ -4082,11 +4082,11 @@ __metadata:
     eslint: "npm:^9"
     eslint-config-next: "npm:15.3.2"
     eslint-config-prettier: "npm:^10.1.5"
-    next: "npm:15.3.2"
+    next: "npm:^15.3.2"
     postcss: "npm:^8.5.3"
     prettier: "npm:^3.5.3"
-    react: "npm:^19.0.0"
-    react-dom: "npm:^19.0.0"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
     tailwindcss: "npm:^4.1.7"
     typescript: "npm:^5"
   languageName: unknown
